@@ -1,0 +1,74 @@
+#login{
+	font-family: Century Gothic;
+	font-size: 17px;
+	margin-left: 10px;
+	margin-top: 2px;
+}
+#register{
+	margin-top:50px;
+}
+#reg{
+	height:30px;
+	font-family: Century Gothic;
+	font-size: 17px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#button3{
+	margin-left:10px;
+	height:30px;
+	font-family: Century Gothic;
+	font-size: 17px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color: white;
+}
+.well {
+	background-color: black;
+	height: 60px;
+	color: white;
+}
+.thumbnail{
+	z-index: 100px;
+	position: absolute;
+	background-color: gray;
+	height: 350px;
+}
+.thumbnail2{
+	z-index: 100px;
+	position: absolute;
+	background-color: gray;
+	height: 230px;
+}
+.thumbnail3{
+	z-index: 100px;
+	position: absolute;
+	background-color: gray;
+	height: 490px;
+	width: 850px;
+	margin-left: 214px;
+}
+.thumbnail4{
+	z-index: 100px;
+	position: absolute;
+	background-color: gray;
+	height: 240px;
+	width: 500px;
+	margin-left: 370px;
+}
+#ack{
+	color: black;
+	margin-left: 108px;
+	margin-top: 10px;
+}
+#login2{
+	color: black;
+	font-family: Century Gothic;
+}
+#score{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+#loginname{
+	margin-top: -20px;
+}
